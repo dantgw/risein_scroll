@@ -11,5 +11,5 @@ The color-blind person does not gain any knowledge about the color of the marble
 # Identify A Problem
 Certain web apps can only be used by people of a certain age. eg: social media, gore content. How do I prove to the web app that I am indeed old enough to use it without revealing my birthday?
 
-# Integratin ZKP
-Use zero-knowledge to proof that I am above a certain age without revealing my birthdate.
+# Integrating ZKP
+Use zero-knowledge to proof that I am above a certain age without revealing my birthdate. Could be in the form of an oracle providing the credential.
